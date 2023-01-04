@@ -1,1 +1,1 @@
-# Laboratorio-de-Introducao-a-Ciencia-da-Computacao-II
+Exercícios de programação para a disciplina de Laboratório de Introdução à Ciência da Computação II
